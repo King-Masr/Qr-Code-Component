@@ -13,7 +13,7 @@ p {
   display: flex;
   padding: 15px;
   width: fit-content;
-  border-radius: 20px;
+  border-radius: 15px;
   align-items: center;
   flex-direction: column;
   justify-content: center;
@@ -21,7 +21,7 @@ p {
 }
 #box #image img {
   width: 290px;
-  border-radius: 20px;
+  border-radius: 15px;
 }
 #box #info {
   text-align: center;
